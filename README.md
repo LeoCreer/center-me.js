@@ -6,4 +6,4 @@ $(‘#Element').center ();
 Or pass in responsive attribute.
 Turn off center-me.js at this width 500px.
 
-.center (500);
+$(‘#Element').center ('500');
