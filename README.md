@@ -1,4 +1,7 @@
 # center-me.js
+
+http://js.believablecreations.com/projects/center-me.js/
+
 Center Me JS jQuery Plugin allows users to center any element on the screen. Vertical and horizontal center alignment.  
 
 $(‘#Element').center ();
