@@ -6,6 +6,8 @@ For example you have have a dynamic element with width and height that changes o
 
 ###How to use center me.
 
+Angular compatibility 1.2 to 1.5x  
+
 Add center-me to your App
 
 	var yourApp	= angular.module('yourApp', ['CenterMeDirective']);
